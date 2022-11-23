@@ -3,6 +3,7 @@
 <!--
 **KrsnaAleti/KrsnaAleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![KrsnaAleti](src/1398418.png)
 -->
 ## Python Developer | Aspiring Data Scientist
 
