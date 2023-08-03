@@ -5,7 +5,7 @@
 
 ![KrsnaAleti](src/1398418.png)
 -->
-## Python Developer | Aspiring Data Scientist
+## Developer/Analyst | Aspiring Data Scientist
 
 
 ![GitHub followers](https://img.shields.io/github/followers/KrsnaAleti?color=9cf&style=for-the-badge)
