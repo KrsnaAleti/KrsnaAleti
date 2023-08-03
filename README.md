@@ -15,8 +15,8 @@
 
 
 * 🌍 I'm based in Hyderabad
-* 🧠 I'm currently learning (Statistics, FE,  Maths for ML, Machine Learning - next in pipeline: MLOPS, DL)
-* 🤝 I'm open to collaborating on projects based on Python, Flask/Django
+* 🧠 I'm currently learning (Data Science Masters)
+* 🤝 I'm open to collaborating on projects
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
 * 😍 Favorite Theme: <del>Light</del> <b>Dark</b>
