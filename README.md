@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Krishna Aleti
+[Krishna_resume.pdf](https://github.com/KrsnaAleti/KrsnaAleti/files/12364383/Krishna_resume.pdf)# Hey there 👋, I'm Krishna Aleti
 
 <!--
 **KrsnaAleti/KrsnaAleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,8 @@
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
 * 😍 Favorite Theme: <del>Light</del> <b>Dark</b>
+
+* [Uploading Krishna_resume.pdf…](Resume)
 
  <!--
 ### Skills
