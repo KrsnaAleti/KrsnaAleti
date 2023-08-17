@@ -1,4 +1,4 @@
-[Krishna_resume.pdf](https://github.com/KrsnaAleti/KrsnaAleti/files/12364383/Krishna_resume.pdf)# Hey there 👋, I'm Krishna Aleti
+# Hey there 👋, I'm Krishna Aleti
 
 <!--
 **KrsnaAleti/KrsnaAleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@
 * ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
 * 😍 Favorite Theme: <del>Light</del> <b>Dark</b>
 
-* [Uploading Krishna_resume.pdf…](Resume)
+
 
  <!--
 ### Skills
@@ -55,3 +55,4 @@ src="https://img.shields.io/github/followers/krsnaaleti?logo=github&style=for-th
  <!--
 <a href="https://github.com/krsnaaleti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsnaaleti&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
+* [Resume](https://github.com/KrsnaAleti/KrsnaAleti/files/12364383/Krishna_resume.pdf)
