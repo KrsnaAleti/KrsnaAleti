@@ -16,7 +16,7 @@
 
 
 * 😄 Pronouns: He/Him
-* 🔭 Currently exploring **Python Development**, **Data Science** and **Generative AI** 
+* 🔭 Currently exploring **Data Science** and **Generative AI** 
 * 💡 Constantly learning through hands-on projects and real-world challenges  
 * ✨ Proponent of clean code, modular architecture, and continuous learning.
 * ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
