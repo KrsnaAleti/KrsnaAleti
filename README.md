@@ -1,13 +1,12 @@
 # Hey there 👋, I'm Krishna Aleti
 ✨ Driven to transform data into meaningful insights and innovative ideas into real-world impact.
---
 
 <!--
 **KrsnaAleti/KrsnaAleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![KrsnaAleti](src/1398418.png)
 -->
-## Developer/Analyst | Aspiring Data Scientist
+### Developer/Analyst | Aspiring Data Scientist
 
 
 ![GitHub followers](https://img.shields.io/github/followers/KrsnaAleti?color=9cf&style=for-the-badge)
