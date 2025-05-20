@@ -16,10 +16,10 @@
 
 
 * 😄 Pronouns: He/Him
-- 🔭 Currently exploring **Python Development**, **Data Science** and **Generative AI** 
-- 💡 Constantly learning through hands-on projects and real-world challenges  
-- ✨ Proponent of clean code, modular architecture, and continuous learning.
-- ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
+* 🔭 Currently exploring **Python Development**, **Data Science** and **Generative AI** 
+* 💡 Constantly learning through hands-on projects and real-world challenges  
+* ✨ Proponent of clean code, modular architecture, and continuous learning.
+* ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
 * 🤝 Open to collaborating on projects
 * 😍 Favorite Theme: <del>Light</del> <b>Dark</b>
 
