@@ -1,4 +1,6 @@
 # Hey there 👋, I'm Krishna Aleti
+✨ Driven to transform data into meaningful insights and innovative ideas into real-world impact.
+--
 
 <!--
 **KrsnaAleti/KrsnaAleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +16,12 @@
 
 
 
-* 🌍 I'm based in Hyderabad
-* 🧠 I'm currently pursuing M.Tech in Data Science @BITS-Pilani
-* 🤝 I'm open to collaborating on projects
 * 😄 Pronouns: He/Him
-* ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
+- 🔭 Currently exploring **Python Development**, **Data Science** and **Generative AI** 
+- 💡 Constantly learning through hands-on projects and real-world challenges  
+- ✨ Proponent of clean code, modular architecture, and continuous learning.
+- ⚡ Fun fact: I'm a bit lazy... so, I design tools to complete my work easier/faster
+* 🤝 Open to collaborating on projects
 * 😍 Favorite Theme: <del>Light</del> <b>Dark</b>
 
 
@@ -55,5 +58,72 @@ src="https://img.shields.io/github/followers/krsnaaleti?logo=github&style=for-th
 
  <!--
 <a href="https://github.com/krsnaaleti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsnaaleti&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
 * [Resume](https://github.com/KrsnaAleti/KrsnaAleti/files/12364383/Krishna_resume.pdf)
+-->
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/krishna-aleti/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrsnaAleti)
+
+
+
+<!--
+# Hi there, I'm Sreekala (Sree) 👋  
+
+🌟 Passionate about turning data into insight and ideas into impact.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently exploring **Data Science**, **Generative AI**, and **Python Development**  
+- 🧾 Built a **Finance Tracker CLI app** and a **Pantry Tracker CLI app** for real-world automation  
+- 📊 Background in **Project Management** — organizing, planning, and delivering results  
+- 🎓 Enrolled in the **Ultimate Data Science & GenAI Bootcamp** by Krish Naik Academy  
+- 💡 Constantly learning through hands-on projects and real-world challenges  
+- ✨ Advocate for clean code, modular design, and lifelong learning
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🧰 Projects
+
+🔹 **[Finance Tracker CLI App](https://github.com/SreeMenon27/FinanceTracker)**  
+A command-line tool to manage personal income and expenses with organized data stored in JSON.
+
+> 💡 Key Features:
+> - Transaction logging with timestamps  
+> - JSON file operations  
+> - Modular structure with category and type-based views  
+> - Simple CLI-based navigation
+
+🔹 **[Pantry Tracker CLI App](https://github.com/SreeMenon27/PantryTracker)**  
+A Python-based CLI application to manage kitchen inventory—add, view, delete items with category/unit types.
+
+> 💡 Key Features:
+> - Input validation and error handling  
+> - Item tracking by name, category, quantity, and date  
+> - JSON-based persistent storage  
+> - Modular code with clean UI formatting
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sreekala-menon/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SreeMenon27)
+
+---
+
+_📬 Let’s learn and build together. Data + Code = 🚀_
+-->
