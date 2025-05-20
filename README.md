@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/krsnaaleti?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/krsnaaleti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/krishaleti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+-->
  
 ## 📊 My GitHub Stats
 <!---
@@ -57,8 +57,11 @@ src="https://img.shields.io/github/followers/krsnaaleti?logo=github&style=for-th
 
 
 <a href="https://github.com/krsnaaleti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsnaaleti&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!---
 * [Resume](https://github.com/KrsnaAleti/KrsnaAleti/files/12364383/Krishna_resume.pdf)
 -->
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/krishna-aleti/)
