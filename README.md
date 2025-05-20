@@ -9,8 +9,10 @@
 ### Developer/Analyst | Aspiring Data Scientist
 
 
-![GitHub followers](https://img.shields.io/github/followers/KrsnaAleti?color=9cf&style=for-the-badge)
-[![linkedin badge](https://img.shields.io/badge/Connect-Linkedin-9cf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-aleti/)
+<!--  ![GitHub followers](https://img.shields.io/github/followers/KrsnaAleti?color=9cf&style=for-the-badge)-->
+[![linkedin badge](https://img.shields.io/badge/Linkedin-9cf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-aleti/)
+[![GitHub badge](https://img.shields.io/badge/GitHub-9cf?style=for-the-badge&logo=github)](https://github.com/KrsnaAleti)
+<!-- [![linkedin badge](https://img.shields.io/badge/Connect-Linkedin-9cf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-aleti/)-->
 <!--![GitHub Repo stars](https://img.shields.io/github/stars/krsnaaleti/Advance-Image-Downloader?color=9cf&style=for-the-badge)-->
 
 
