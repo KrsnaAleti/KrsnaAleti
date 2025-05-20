@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Krishna Aleti
-✨ Driven to transform data into meaningful insights and innovative ideas into real-world impact.
+✨ Driven to transform data into meaningful insights and innovative ideas into real-world impact
 
 <!--
 **KrsnaAleti/KrsnaAleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
